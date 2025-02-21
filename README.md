@@ -58,6 +58,14 @@ I am a final-year Electrical Engineering student at MNNIT Allahabad with a stron
   Developed a **dual-axis solar tracking system** using Arduino, LDRs, and servo motors, improving solar efficiency by 30%.  
   *Tech Stack:* Embedded Systems, Microcontrollers
 
+- **[Processor in the Loop Validation of Fuzzy Power Management Scheme](#)**  
+  This project highlights a system combining real-time processor simulation with a fuzzy logic controller for intelligent power optimization. It ensures adaptive, efficient power management by testing control strategies in a simulated and hardware-integrated environment.  
+  *Objectives:*  
+  1. **Simulink Model Development**: Simulate a Solar Power, Battery SOC and Load Demand inputs, and a battery reference power output with grid connection in a Simulink model.  
+  2. **Develop an FLC-based Power Management System**: Design a fuzzy logic controller to manage energy distribution by solving the problem of solar power, battery SOC, and load demand.  
+  3. **Processor in the Loop (PIL) Testing**: Validate the real-time performance of the FLC-based power management system on hardware.  
+  4. **Simulation and Validation**: Verify system performance using simulation tools (MATLAB Simulink and Arduino) to ensure correct operation.  
+
 ---
 
 ## 🏆 Achievements
